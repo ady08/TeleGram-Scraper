@@ -23,7 +23,7 @@ class main():
     {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
                 version : 1.0
-            youtube.com/theunknon
+            youtube.com/ady sitorus ady
             """)
 
     def send_sms():
