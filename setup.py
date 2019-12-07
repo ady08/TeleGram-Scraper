@@ -17,15 +17,12 @@ def banner():
 	print(f"""
 	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐
 	{re}╚═╗{cy}├┤  │ │ │├─┘
-	{re}╚═╝{cy}└─┘ ┴ └─┘┴
-        """)
-        
-       print(f"""
-       {re}NICOLEUS SITORUS {cy} HORAS HITA SUDE!!1 
-       {re}HORAS..... HORAS {cy} SAMOSIR CYBER TEAM
-       {re}HOAAS.....HORAS  {cy} SAMOSIR CYBER TEAM
-       {re}HOARS..... HORAS {cy}HORAS SAMOSIR CYBER TEAM
-	""")
+	{re}╚═╝{cy}└─┘ ┴ └─┘┴ 
+        {re}NICOLEUS SITORUS {cy} HORAS HITA SUDE!!1 
+        {re}HORAS..... HORAS {cy} SAMOSIR CYBER TEAM
+        {re}HOAAS.....HORAS  {cy} SAMOSIR CYBER TEAM
+        {re}HOARS..... HORAS {cy}HORAS SAMOSIR CYBER TEAM
+	 """)
 banner()
 print(gr+"[+] Installing requierments ...")
 os.system('python3 -m pip install telethon')
