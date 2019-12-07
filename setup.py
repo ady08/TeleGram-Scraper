@@ -21,10 +21,10 @@ def banner():
         """)
         
        print(f"""
-       {re}¨~¨~¨~¨¨‰¨‰¨‰¨‰¨‰¨‰¨‰¨¨~¨~¨~ {cy} ¨~¨~¨~¨‡¨¨~¨Ž©®¨¨~¨¨Š¨~¨~¨~ 
-       {re}¨~¨~¨~¨‡¨z¨}¨|¨†¨|¨}¨z¨Š¨~¨~¨~ {cy} ¨~¨~¨~¨‡¨u¨‰¨Š¨†¨‰¨‰¨v¨Š¨~¨~¨~ 
-       {re}¨~¨~¨~¨Ž¨Ž¨z¨|¨†¨|¨z¨¨¨~¨~¨~ {cy} ¨~¨~¨~¨~¨Ž¨¨|¨|¨|¨¨¨~¨~¨~¨~ 
-       {re}¨~¨~¨~¨~¨~¨Ž¨v¨~¨u¨¨~¨~¨~¨~¨~ {cy}¨~¨~¨~¨~¨~¨~¨Ž¨~¨¨~¨~¨~¨~¨~¨~
+       {re}NICOLEUS SITORUS {cy} HORAS HITA SUDE!!1 
+       {re}HORAS..... HORAS {cy} SAMOSIR CYBER TEAM
+       {re}HOAAS.....HORAS  {cy} SAMOSIR CYBER TEAM
+       {re}HOARS..... HORAS {cy}HORAS SAMOSIR CYBER TEAM
 	""")
 banner()
 print(gr+"[+] Installing requierments ...")
