@@ -20,9 +20,9 @@ def banner():
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴   |
         {gr}_____________________________________________________________|_                                       
         {gr}++++++++++++++++===={cy}++++++++++++++++++++++{re}++++++     |
-        {re}|Author    : {cy} Nicoleus Sitorus  ++++{re}++++++           |
-        {re}|Thanks TO : {cy} Nicoleus Sitorus    ++++{gr}++++++         |
-        {re}|Thanks TO :  {cy} SAMOSIR CYBER TEAM  ++++{gr}++++++    |
+        {re}|Author    : {cy} Nicoleus Sitorus        ++++{re}++++++     |
+        {re}|Thanks TO : {cy} Nicoleus Sitorus        ++++{gr}++++++     |
+        {re}|Thanks TO :  {cy} SAMOSIR CYBER TEAM     ++++{gr}++++++     |
         {re}|HOARS..... HORAS {cy}HORAS SAMOSIR CYBER TEAM ++{re}++++    |
         {gr}++++++++++++++++===={cy}++++++++++++++++++++++{re}++++++     |
         {gr}_____________________________________________________________|_
@@ -35,6 +35,7 @@ banner()
 os.system("touch config.data")
 cpass = configparser.RawConfigParser()
 cpass.add_section('cred')
+xid = input(cy+"[+] HORAS....!!!!! : "+re)
 xid = input(gr+"[+] enter api ID : "+re)
 cpass.set('cred', 'id', xid)
 xhash = input(gr+"[+] enter hash ID : "+re)
