@@ -15,13 +15,14 @@ cy="\033[1;36m"
 def banner():
 	os.system('clear')
 	print(f"""
-	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐
-	{re}╚═╗{cy}├┤  │ │ │├─┘
-	{re}╚═╝{cy}└─┘ ┴ └─┘┴ 
-        {re}NICOLEUS SITORUS {cy} HORAS HITA SUDE!!1 
-        {re}HORAS..... HORAS {cy} SAMOSIR CYBER TEAM
-        {re}HOAAS.....HORAS  {cy} SAMOSIR CYBER TEAM
-        {re}HOARS..... HORAS {cy}HORAS SAMOSIR CYBER TEAM
+	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐ |
+	{re}╚═╗{cy}├┤  │ │ │├─┘ |
+	{re}╚═╝{cy}└─┘ ┴ └─┘┴   |
+        {gr}++++++++++++++++===={cy}++++++++++++++++++++++{re}++++++ 
+        {re}NICOLEUS SITORUS {cy} HORAS HITA SUDE!!1  ++++{re}++++++ 
+        {re}HORAS..... HORAS {cy} SAMOSIR CYBER TEAM  ++++{gr}++++++
+        {re}HOAAS.....HORAS  {cy} SAMOSIR CYBER TEAM  ++++{gr}++++++
+        {re}HOARS..... HORAS {cy}HORAS SAMOSIR CYBER TEAM ++{re}++++
 	 """)
 banner()
 print(gr+"[+] Installing requierments ...")
@@ -43,4 +44,4 @@ setup.close()
 print(gr+"[+] setup complete !")
 print(gr+"[+] now you can run any tool !")
 print(gr+"[+] make sure to read docs 4 installation & api setup")
-print(gr+"[+] https://github.com/th3unkn0n/TeleGram-Scraper/blob/master/README.md")
+print(gr+"[+] https://github.com/ady08/TeleGram-Scraper/blob/master/README.md")
