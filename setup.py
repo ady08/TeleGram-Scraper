@@ -18,11 +18,14 @@ def banner():
 	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐ |
 	{re}╚═╗{cy}├┤  │ │ │├─┘ |
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴   |
-        {gr}++++++++++++++++===={cy}++++++++++++++++++++++{re}++++++ 
-        {re}NICOLEUS SITORUS {cy} HORAS HITA SUDE!!1  ++++{re}++++++ 
-        {re}HORAS..... HORAS {cy} SAMOSIR CYBER TEAM  ++++{gr}++++++
-        {re}HOAAS.....HORAS  {cy} SAMOSIR CYBER TEAM  ++++{gr}++++++
-        {re}HOARS..... HORAS {cy}HORAS SAMOSIR CYBER TEAM ++{re}++++
+        {gr}_____________________________________________________________|_                                       
+        {gr}++++++++++++++++===={cy}++++++++++++++++++++++{re}++++++     |
+        {re}|Author    : {cy} Nicoleus Sitorus  ++++{re}++++++           |
+        {re}|Thanks TO : {cy} Nicoleus Sitorus    ++++{gr}++++++         |
+        {re}|Thanks TO :  {cy} SAMOSIR CYBER TEAM  ++++{gr}++++++    |
+        {re}|HOARS..... HORAS {cy}HORAS SAMOSIR CYBER TEAM ++{re}++++    |
+        {gr}++++++++++++++++===={cy}++++++++++++++++++++++{re}++++++     |
+        {gr}_____________________________________________________________|_
 	 """)
 banner()
 print(gr+"[+] Installing requierments ...")
